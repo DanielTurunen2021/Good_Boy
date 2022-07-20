@@ -1,0 +1,1 @@
+My initial movement script that we used for the earliest build. It uses WASD and arrow keys to move back and forward and rotate the character to the left and right. The initial movement has since been updated and incorporated into dog controller.

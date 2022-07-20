@@ -1,0 +1,1 @@
+A pause game script that I made that is used in conjunction with the menu scripts.

@@ -1,0 +1,3 @@
+This is a simple dialogue system that I made that that works on a list and a queue. The dialogue is stored in a scriptable object that holds a list with the dialogue and the dialogue manager script holds methods to execute the dialogue. There are two methods for executing dialogue, one for playing the dialogue in order and one for choosing a random option from the list. I was however not able to successfully remove the dialogue that is chosen randomly by dequeuing it at the time of this writing. There is also a method for clearing and the queue to insert a new dialogue in the queue.
+
+The dialogue script contains the class which is used to make the dialogue scriptable object.

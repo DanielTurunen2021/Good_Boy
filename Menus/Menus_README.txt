@@ -1,0 +1,1 @@
+I made a couple of scripts that control the options menus and provide resolution options, fullscreen options, graphics quality options and audio options. Playerprefs does, however, not seem to work as it does not seem to save the data; despite the fact that I have read the manual and followed the instructions(using PlayerPrefs.SetInt, layerPrefs.GetInt and PlayerPrefs.Save().). 

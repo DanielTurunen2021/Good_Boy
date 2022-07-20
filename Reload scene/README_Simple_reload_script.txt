@@ -1,0 +1,1 @@
+A simple script I made to be used with a game object in the scene that would allow the designers to easily reload the scene or quit the application entirely. I was planning on making a UI for it but there was no time.

@@ -1,0 +1,1 @@
+A scriptable object that I made which is paired with the movement script of the dog(player character). It allows the designers to easily tweak the movement values and save them in runtime.
